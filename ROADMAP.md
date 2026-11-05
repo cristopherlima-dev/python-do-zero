@@ -55,6 +55,9 @@ Menu no terminal para adicionar, listar, concluir e remover tarefas, salvando em
 - Loop `for` e `enumerate()`
 - Loop `while` e o menu que repete
 - Funções: `def`, parâmetros, `return`
+- Escopo local x global
+- Por que em Python não existe "procedure": toda função sem `return` devolve `None`
+- Chamar uma função dentro de outra
 - Leitura e escrita de arquivos com `open()` e `with`
 - Módulo `json`: `load()` e `dump()`
 
